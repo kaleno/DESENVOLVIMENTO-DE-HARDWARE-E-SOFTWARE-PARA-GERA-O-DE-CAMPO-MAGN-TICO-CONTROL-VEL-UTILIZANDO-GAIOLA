@@ -1,0 +1,2101 @@
+Ponte H configurada com sucesso
+-LIST1-
+Verificando conexão com a Ponte H...
+COM4
+b'$INV000 510 509 512;\r\n'
+-IMG1-
+Magnetômetro configurado com sucesso
+-LIST2-
+Verificando conexão com o Magnetômetro...
+COM6
+Bx:-31.53uT	By:-1.41uT	Bz:-43.64uT
+-IMG2-
+ID HP6032A
+
+
+Fonte A configurada com sucesso
+-IMG3-
+HEWLETT-PACKARD,6032A,0,sA.00.00pA.00.02
+
+Fonte B configurada com sucesso
+-IMG4-
+ID HP6032A
+
+
+Fonte C configurada com sucesso
+-IMG5-
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -0.15 A | Iz = -0.07 A 
+$INV000 511 508 511
+-IMG6-
+-56.57	9.29	-76.35
+-55.63	10.64	-75.87
+-54.80	9.20	-76.53
+-53.75	8.25	-77.12
+-50.75	7.17	-77.26
+-47.91	7.15	-77.03
+-47.88	5.29	-77.67
+-59.60	9.37	-77.62
+-71.87	14.58	-70.77
+-75.43	7.43	-35.57
+-60.91	2.00	-28.09
+-35.05	-3.97	-36.19
+-29.30	-1.27	-60.57
+-37.29	4.08	-73.13
+-57.04	13.15	-78.37
+-64.99	16.36	-75.40
+-61.87	15.17	-76.93
+-50.55	8.98	-79.02
+-29.71	-2.77	-62.21
+-30.25	-1.61	-42.08
+-45.35	10.07	-29.85
+-54.13	25.97	-44.67
+-51.83	26.81	-60.63
+-56.61	25.35	-43.37
+-45.27	1.25	-28.06
+-32.60	-9.09	-39.69
+-32.51	-8.27	-39.33
+-49.93	2.89	-26.10
+-51.52	0.03	-25.75
+-42.99	-6.93	-29.48
+-38.14	-8.10	-32.68
+-44.38	4.85	-28.03
+-54.41	13.15	-28.80
+-59.89	8.85	-27.95
+-49.32	-1.89	-26.95
+-35.53	-7.77	-35.82
+-28.82	-2.13	-57.97
+-40.50	8.51	-74.07
+-58.49	18.83	-73.65
+-66.15	18.28	-71.83
+-49.45	8.85	-78.17
+-30.73	1.40	-64.24
+-31.96	-0.33	-39.92
+-60.55	11.93	-31.35
+-77.22	13.83	-50.62
+-68.51	6.91	-77.59
+-64.82	4.47	-79.11
+-80.54	10.99	-58.00
+-60.08	5.28	-28.77
+-33.34	2.69	-37.85
+-33.98	7.89	-66.46
+-58.99	15.80	-75.06
+-76.83	9.21	-67.37
+-74.48	-8.81	-66.87
+-55.87	-5.89	-78.03
+-46.93	-0.91	-78.09
+-55.69	10.14	-77.31
+-72.61	13.80	-68.47
+-78.20	-3.16	-65.40
+-63.96	-3.22	-77.06
+-54.40	-0.84	-79.09
+-51.39	5.13	-78.63
+-62.07	14.03	-75.29
+-76.31	6.41	-69.04
+-70.49	-3.97	-73.21
+-55.84	-1.52	-78.80
+-50.84	4.09	-78.84
+-54.13	12.30	-76.67
+-66.49	13.93	-73.27
+-78.20	-1.13	-66.29
+-70.01	-8.11	-72.29
+-51.87	-3.67	-78.62
+-53.29	8.56	-78.33
+-61.85	15.89	-74.21
+-76.60	8.34	-67.13
+-76.99	-8.95	-64.06
+-72.29	-12.83	-67.19
+-72.57	-11.20	-68.48
+-72.87	9.10	-69.33
+-49.74	20.47	-69.62
+-33.60	16.03	-50.78
+-31.19	0.13	-40.08
+-48.63	-2.59	-27.69
+-68.05	-5.13	-31.97
+-77.63	5.03	-40.71
+-76.87	16.10	-63.89
+-61.91	12.77	-78.16
+-66.13	11.73	-77.44
+-80.99	8.03	-46.53
+-57.73	2.61	-27.45
+-32.23	1.83	-38.54
+-31.61	4.41	-65.56
+-50.02	13.07	-76.53
+-62.63	20.97	-70.57
+-56.55	16.24	-75.89
+-34.87	2.28	-70.39
+-27.75	-1.75	-52.43
+-41.11	5.71	-32.11
+-67.59	16.91	-38.26
+-69.58	17.19	-69.80
+-57.67	10.01	-79.48
+-70.54	15.56	-71.38
+-69.95	11.10	-35.05
+-45.58	1.43	-28.35
+-31.47	1.35	-39.72
+-36.61	11.29	-69.05
+-56.24	24.09	-67.39
+-64.01	23.75	-65.39
+-52.84	15.81	-75.07
+-31.33	4.18	-65.07
+-29.08	0.23	-45.66
+-43.71	6.37	-29.18
+-56.05	22.47	-37.73
+-50.17	25.75	-44.15
+-38.79	16.01	-37.15
+-41.15	11.33	-32.32
+-57.13	11.83	-29.00
+-61.37	17.27	-33.15
+-50.84	22.31	-37.43
+-36.75	11.08	-35.10
+-40.89	9.88	-31.85
+-58.68	12.82	-29.80
+-61.85	22.24	-38.39
+-49.89	21.31	-36.37
+-38.41	11.65	-34.06
+-47.12	10.95	-29.47
+-63.91	14.34	-32.26
+-62.53	22.45	-39.18
+-51.61	22.84	-37.85
+-39.96	13.58	-33.92
+-34.56	11.11	-38.18
+-47.17	23.62	-42.84
+-68.05	18.17	-39.90
+-79.36	11.41	-50.79
+-69.31	3.86	-78.18
+-69.71	5.71	-77.77
+-77.13	9.89	-43.05
+-52.38	5.33	-27.61
+-38.23	3.90	-32.42
+-30.11	8.11	-58.95
+-49.79	18.04	-73.19
+-67.69	19.58	-69.02
+-67.13	17.66	-71.19
+-47.83	12.30	-76.71
+-30.26	6.07	-62.51
+-28.65	5.59	-48.01
+-32.79	8.24	-39.57
+-43.93	7.69	-30.07
+-67.48	12.08	-34.11
+-77.67	14.41	-61.87
+-62.28	11.52	-78.27
+-58.36	10.01	-78.99
+-73.91	17.24	-67.16
+-71.95	10.99	-36.19
+-48.85	4.47	-27.72
+-30.83	4.21	-41.09
+-34.10	10.15	-66.85
+-54.93	17.07	-75.01
+-64.88	19.63	-70.94
+-56.29	14.42	-76.95
+-37.56	6.57	-72.62
+-31.99	5.47	-65.80
+-44.28	8.63	-75.02
+-67.44	3.78	-75.71
+-70.43	9.11	-73.42
+-55.59	8.11	-78.81
+-45.17	1.35	-77.47
+-53.43	-1.55	-79.01
+-70.89	0.81	-73.80
+-72.33	8.77	-72.07
+-58.60	11.10	-77.35
+-41.38	1.85	-75.73
+-44.17	-3.76	-76.54
+-57.11	-6.00	-77.98
+-72.43	3.91	-72.27
+-64.46	14.45	-74.65
+-44.88	5.42	-76.93
+-41.53	-4.33	-75.29
+-55.95	-5.44	-78.18
+-71.19	2.07	-73.70
+-72.73	15.29	-68.84
+-58.39	21.05	-71.08
+-54.41	20.75	-71.16
+-61.94	20.26	-71.11
+-72.85	13.24	-70.80
+-73.88	-2.49	-70.54
+-54.54	-3.67	-78.00
+-41.00	6.77	-74.49
+-43.39	11.65	-74.16
+-51.56	17.38	-74.39
+-47.86	15.70	-74.90
+-40.15	12.79	-71.96
+-28.89	4.73	-58.21
+-28.60	0.94	-45.45
+-34.93	5.83	-35.19
+-52.35	16.13	-31.49
+-61.15	27.45	-52.01
+-53.55	25.46	-64.47
+-50.93	21.45	-70.05
+-59.06	23.14	-69.23
+X0: -54.95741419661433 
+Y0: 1.4379349956849476 
+Z0: -53.17792105979858 
+a: 1.0391538019013224 
+b: 1.0398612848360695 
+c: 1.0322045801929551
+Verificando conexão com o Magnetômetro...
+COM6
+Bx:23.56uT	By:-2.28uT	Bz:9.59uT
+-IMG2-
+Tensões de Referência:
+ Vx = -40.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = -0.07 A | Iz = -0.07 A 
+$INV001 509 509 511
+-IMG7-
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.45 A | Iy = -0.15 A | Iz = 0.00 A 
+$INV000 504 508 510
+Bx:23.66uT	By:-2.28uT	Bz:9.58uT
+Bx:23.66uT	By:-2.28uT	Bz:9.56uT
+Bx:23.66uT	By:-2.28uT	Bz:9.56uT
+Bx:23.68uT	By:-2.28uT	Bz:9.58uT
+Bx:23.68uT	By:-2.28uT	Bz:9.58uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.71uT	By:-2.28uT	Bz:9.61uT
+Bx:23.68uT	By:-2.28uT	Bz:9.58uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.29uT	Bz:9.60uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.58uT
+Bx:23.70uT	By:-2.28uT	Bz:9.60uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.71uT	By:-2.28uT	Bz:9.60uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.29uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.68uT	By:-2.28uT	Bz:9.58uT
+Bx:23.68uT	By:-2.28uT	Bz:9.56uT
+Bx:23.68uT	By:-2.28uT	Bz:9.56uT
+Bx:23.70uT	By:-2.29uT	Bz:9.58uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.60uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.72uT	By:-2.28uT	Bz:9.61uT
+Bx:23.70uT	By:-2.28uT	Bz:9.58uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.60uT
+Bx:23.71uT	By:-2.28uT	Bz:9.60uT
+Bx:23.71uT	By:-2.28uT	Bz:9.60uT
+Bx:23.71uT	By:-2.29uT	Bz:9.60uT
+Bx:23.71uT	By:-2.28uT	Bz:9.60uT
+Bx:23.73uT	By:-2.29uT	Bz:9.61uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.58uT
+Bx:23.70uT	By:-2.28uT	Bz:9.58uT
+Bx:23.70uT	By:-2.28uT	Bz:9.58uT
+Bx:23.70uT	By:-2.29uT	Bz:9.58uT
+Bx:23.71uT	By:-2.28uT	Bz:9.60uT
+Bx:23.71uT	By:-2.28uT	Bz:9.60uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.72uT	By:-2.28uT	Bz:9.60uT
+Bx:23.70uT	By:-2.29uT	Bz:9.58uT
+Bx:23.70uT	By:-2.29uT	Bz:9.59uT
+Bx:23.72uT	By:-2.29uT	Bz:9.61uT
+Bx:23.72uT	By:-2.29uT	Bz:9.61uT
+Bx:23.72uT	By:-2.28uT	Bz:9.60uT
+Bx:23.72uT	By:-2.28uT	Bz:9.60uT
+Bx:23.71uT	By:-2.29uT	Bz:9.59uT
+Bx:23.71uT	By:-2.28uT	Bz:9.59uT
+Bx:23.71uT	By:-2.28uT	Bz:9.60uT
+Bx:23.71uT	By:-2.29uT	Bz:9.60uT
+Bx:23.71uT	By:-2.29uT	Bz:9.59uT
+Bx:23.68uT	By:-2.28uT	Bz:9.56uT
+Bx:23.68uT	By:-2.28uT	Bz:9.58uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.58uT
+Bx:23.71uT	By:-2.28uT	Bz:9.60uT
+Bx:23.72uT	By:-2.28uT	Bz:9.61uT
+Bx:23.72uT	By:-2.28uT	Bz:9.60uT
+Bx:23.71uT	By:-2.28uT	Bz:9.59uT
+Bx:23.70uT	By:-2.28uT	Bz:9.58uT
+Bx:23.70uT	By:-2.28uT	Bz:9.60uT
+Bx:23.73uT	By:-2.28uT	Bz:9.61uT
+Bx:23.72uT	By:-2.28uT	Bz:9.60uT
+Bx:23.72uT	By:-2.28uT	Bz:9.59uT
+Bx:23.74uT	By:-2.29uT	Bz:9.61uT
+Bx:23.73uT	By:-2.28uT	Bz:9.61uT
+Bx:23.71uT	By:-2.29uT	Bz:9.61uT
+Bx:23.71uT	By:-2.28uT	Bz:9.61uT
+Bx:23.72uT	By:-2.29uT	Bz:9.60uT
+Bx:23.71uT	By:-2.28uT	Bz:9.61uT
+Bx:23.72uT	By:-2.29uT	Bz:9.60uT
+Bx:23.71uT	By:-2.28uT	Bz:9.59uT
+Bx:23.68uT	By:-2.29uT	Bz:9.56uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.71uT	By:-2.28uT	Bz:9.60uT
+Bx:23.74uT	By:-2.28uT	Bz:9.61uT
+Bx:23.71uT	By:-2.28uT	Bz:9.60uT
+Bx:23.73uT	By:-2.29uT	Bz:9.61uT
+Bx:23.70uT	By:-2.28uT	Bz:9.59uT
+Bx:23.73uT	By:-2.28uT	Bz:9.63uT
+Bx:23.72uT	By:-2.28uT	Bz:9.60uT
+Bx:23.72uT	By:-2.28uT	Bz:9.61uT
+Bx:23.70uT	By:-2.28uT	Bz:9.58uT
+Bx:23.70uT	By:-2.28uT	Bz:9.58uT
+Bx:23.71uT	By:-2.28uT	Bz:9.59uT
+Bx:23.72uT	By:-2.28uT	Bz:9.61uT
+Bx:23.72uT	By:-2.28uT	Bz:9.59uT
+Bx:23.72uT	By:-2.29uT	Bz:9.60uT
+Bx:23.71uT	By:-2.29uT	Bz:9.60uT
+Bx:23.73uT	By:-2.28uT	Bz:9.61uT
+Tensões de Referência:
+ Vx = -40.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 5.76 A | Iy = -0.07 A | Iz = -0.07 A 
+$INV001 586 509 511
+Tensões de Referência:
+ Vx = -40.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -5.83 A | Iy = -0.15 A | Iz = -0.07 A 
+$INV001 433 508 511
+Bx:177.54uT	By:1.50uT	Bz:12.34uT
+Tensões de Referência:
+ Vx = -39.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -5.68 A | Iy = 0.00 A | Iz = -0.15 A 
+$INV001 435 510 512
+Bx:173.56uT	By:1.41uT	Bz:12.29uT
+Tensões de Referência:
+ Vx = -38.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -5.68 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV001 435 509 510
+Bx:169.48uT	By:1.29uT	Bz:12.20uT
+Tensões de Referência:
+ Vx = -37.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -5.45 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV001 438 510 511
+Bx:165.58uT	By:1.19uT	Bz:12.15uT
+Tensões de Referência:
+ Vx = -36.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -5.30 A | Iy = 0.07 A | Iz = -0.07 A 
+$INV001 440 511 511
+Bx:161.56uT	By:1.09uT	Bz:12.07uT
+Tensões de Referência:
+ Vx = -35.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -5.23 A | Iy = -0.07 A | Iz = -0.15 A 
+$INV001 441 509 512
+Bx:157.56uT	By:0.99uT	Bz:12.00uT
+Tensões de Referência:
+ Vx = -34.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -5.08 A | Iy = -0.07 A | Iz = -0.15 A 
+$INV001 443 509 512
+Bx:153.58uT	By:0.89uT	Bz:11.94uT
+Tensões de Referência:
+ Vx = -33.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -4.92 A | Iy = -0.07 A | Iz = -0.07 A 
+$INV001 445 509 511
+Bx:149.60uT	By:0.80uT	Bz:11.87uT
+Tensões de Referência:
+ Vx = -32.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -4.77 A | Iy = -0.07 A | Iz = -0.22 A 
+$INV001 447 509 513
+Bx:145.80uT	By:0.69uT	Bz:11.80uT
+Tensões de Referência:
+ Vx = -31.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -4.55 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV001 450 509 510
+Bx:142.07uT	By:0.60uT	Bz:11.73uT
+Tensões de Referência:
+ Vx = -30.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -4.47 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV001 451 510 510
+Bx:138.28uT	By:0.50uT	Bz:11.66uT
+Tensões de Referência:
+ Vx = -29.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -4.24 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV001 454 510 511
+Bx:134.49uT	By:0.40uT	Bz:11.62uT
+Tensões de Referência:
+ Vx = -28.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -4.24 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV001 454 510 510
+Bx:130.71uT	By:0.30uT	Bz:11.51uT
+Tensões de Referência:
+ Vx = -27.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -3.94 A | Iy = 0.15 A | Iz = 0.00 A 
+$INV001 458 512 510
+Bx:126.91uT	By:0.20uT	Bz:11.44uT
+Tensões de Referência:
+ Vx = -26.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -3.79 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV001 460 509 510
+Bx:123.10uT	By:0.10uT	Bz:11.36uT
+Tensões de Referência:
+ Vx = -25.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -3.71 A | Iy = -0.07 A | Iz = -0.07 A 
+$INV001 461 509 511
+Bx:119.33uT	By:0.01uT	Bz:11.28uT
+Tensões de Referência:
+ Vx = -24.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -3.48 A | Iy = -0.07 A | Iz = -0.07 A 
+$INV001 464 509 511
+Bx:115.51uT	By:-0.08uT	Bz:11.22uT
+Tensões de Referência:
+ Vx = -23.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -3.41 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV001 465 509 510
+Bx:111.71uT	By:-0.18uT	Bz:11.18uT
+Tensões de Referência:
+ Vx = -22.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -3.26 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV001 467 509 510
+Bx:107.95uT	By:-0.27uT	Bz:11.13uT
+Tensões de Referência:
+ Vx = -21.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -3.11 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV001 469 509 510
+Bx:104.12uT	By:-0.37uT	Bz:11.04uT
+Tensões de Referência:
+ Vx = -20.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -2.95 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV001 471 510 510
+Bx:100.28uT	By:-0.46uT	Bz:10.96uT
+Tensões de Referência:
+ Vx = -19.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -2.73 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV001 474 510 511
+Bx:96.52uT	By:-0.56uT	Bz:10.91uT
+Tensões de Referência:
+ Vx = -18.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -2.73 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV001 474 510 511
+Bx:92.68uT	By:-0.65uT	Bz:10.83uT
+Tensões de Referência:
+ Vx = -17.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -2.50 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV001 477 510 510
+Bx:88.80uT	By:-0.74uT	Bz:10.75uT
+Tensões de Referência:
+ Vx = -16.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -2.35 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV001 479 510 511
+Bx:85.05uT	By:-0.84uT	Bz:10.69uT
+Tensões de Referência:
+ Vx = -15.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -2.12 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV001 482 509 510
+Bx:81.19uT	By:-0.93uT	Bz:10.61uT
+Tensões de Referência:
+ Vx = -14.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -2.05 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV001 483 509 510
+Bx:77.36uT	By:-1.02uT	Bz:10.56uT
+Tensões de Referência:
+ Vx = -13.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -1.89 A | Iy = 0.00 A | Iz = 0.07 A 
+$INV001 485 510 509
+Bx:73.58uT	By:-1.11uT	Bz:10.49uT
+Tensões de Referência:
+ Vx = -12.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -1.74 A | Iy = -0.07 A | Iz = -0.07 A 
+$INV001 487 509 511
+Bx:69.72uT	By:-1.20uT	Bz:10.41uT
+Tensões de Referência:
+ Vx = -11.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -1.52 A | Iy = -0.07 A | Iz = -0.15 A 
+$INV001 490 509 512
+Bx:65.86uT	By:-1.30uT	Bz:10.34uT
+Tensões de Referência:
+ Vx = -10.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -1.36 A | Iy = -0.07 A | Iz = -0.15 A 
+$INV001 492 509 512
+Bx:62.08uT	By:-1.38uT	Bz:10.28uT
+Tensões de Referência:
+ Vx = -9.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -1.36 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV001 492 510 510
+Bx:58.21uT	By:-1.47uT	Bz:10.18uT
+Tensões de Referência:
+ Vx = -8.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -1.21 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV001 494 510 510
+Bx:54.37uT	By:-1.57uT	Bz:10.14uT
+Tensões de Referência:
+ Vx = -7.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -1.06 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV001 496 510 510
+Bx:50.56uT	By:-1.66uT	Bz:10.06uT
+Tensões de Referência:
+ Vx = -6.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.91 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV001 498 510 511
+Bx:46.72uT	By:-1.75uT	Bz:9.99uT
+Tensões de Referência:
+ Vx = -5.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.76 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV001 500 510 510
+Bx:42.88uT	By:-1.84uT	Bz:9.95uT
+Tensões de Referência:
+ Vx = -4.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.61 A | Iy = 0.00 A | Iz = -0.15 A 
+$INV001 502 510 512
+Bx:39.10uT	By:-1.92uT	Bz:9.89uT
+Tensões de Referência:
+ Vx = -3.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.53 A | Iy = 0.00 A | Iz = 0.07 A 
+$INV001 503 510 509
+Bx:35.23uT	By:-2.02uT	Bz:9.81uT
+Tensões de Referência:
+ Vx = -2.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.30 A | Iy = 0.00 A | Iz = 0.07 A 
+$INV001 506 510 509
+Bx:31.37uT	By:-2.10uT	Bz:9.74uT
+Tensões de Referência:
+ Vx = -1.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.15 A | Iy = -0.07 A | Iz = -0.07 A 
+$INV001 508 509 511
+Bx:27.58uT	By:-2.19uT	Bz:9.67uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -0.07 A | Iz = 0.07 A 
+$INV000 511 509 509
+Bx:23.68uT	By:-2.28uT	Bz:9.56uT
+Tensões de Referência:
+ Vx = 1.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.15 A | Iy = 0.00 A | Iz = -0.15 A 
+$INV000 512 510 512
+Bx:19.88uT	By:-2.38uT	Bz:9.53uT
+Tensões de Referência:
+ Vx = 2.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.30 A | Iy = -0.07 A | Iz = -0.07 A 
+$INV000 514 509 511
+Bx:16.06uT	By:-2.47uT	Bz:9.47uT
+Tensões de Referência:
+ Vx = 3.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.45 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 516 510 511
+Bx:12.19uT	By:-2.55uT	Bz:9.39uT
+Tensões de Referência:
+ Vx = 4.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.61 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 518 510 511
+Bx:8.33uT	By:-2.65uT	Bz:9.32uT
+Tensões de Referência:
+ Vx = 5.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.76 A | Iy = 0.07 A | Iz = 0.00 A 
+$INV000 520 511 510
+Bx:4.53uT	By:-2.74uT	Bz:9.25uT
+Tensões de Referência:
+ Vx = 6.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.91 A | Iy = -0.07 A | Iz = -0.07 A 
+$INV000 522 509 511
+Bx:0.66uT	By:-2.83uT	Bz:9.18uT
+Tensões de Referência:
+ Vx = 7.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.98 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV000 523 510 510
+Bx:-3.17uT	By:-2.92uT	Bz:9.10uT
+Tensões de Referência:
+ Vx = 8.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 1.21 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV000 526 509 510
+Bx:-6.94uT	By:-3.01uT	Bz:9.06uT
+Tensões de Referência:
+ Vx = 9.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 1.36 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 528 510 511
+Bx:-10.83uT	By:-3.09uT	Bz:8.96uT
+Tensões de Referência:
+ Vx = 10.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 1.52 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV000 530 509 510
+Bx:-14.62uT	By:-3.19uT	Bz:8.94uT
+Tensões de Referência:
+ Vx = 11.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 1.67 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV000 532 510 510
+Bx:-18.42uT	By:-3.27uT	Bz:8.86uT
+Tensões de Referência:
+ Vx = 12.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 1.89 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV000 535 509 510
+Bx:-22.26uT	By:-3.37uT	Bz:8.78uT
+Tensões de Referência:
+ Vx = 13.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 1.97 A | Iy = 0.07 A | Iz = -0.07 A 
+$INV000 536 511 511
+Bx:-26.09uT	By:-3.46uT	Bz:8.69uT
+Tensões de Referência:
+ Vx = 14.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 2.05 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV000 537 510 510
+Bx:-29.87uT	By:-3.55uT	Bz:8.61uT
+Tensões de Referência:
+ Vx = 15.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 2.27 A | Iy = 0.07 A | Iz = -0.07 A 
+$INV000 540 511 511
+Bx:-33.69uT	By:-3.64uT	Bz:8.54uT
+Tensões de Referência:
+ Vx = 16.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 2.42 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 542 510 511
+Bx:-37.48uT	By:-3.74uT	Bz:8.49uT
+Tensões de Referência:
+ Vx = 17.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 2.58 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV000 544 510 510
+Bx:-41.23uT	By:-3.83uT	Bz:8.41uT
+Tensões de Referência:
+ Vx = 18.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 2.65 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV000 545 509 510
+Bx:-45.06uT	By:-3.91uT	Bz:8.36uT
+Tensões de Referência:
+ Vx = 19.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 2.88 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 548 510 511
+Bx:-49.09uT	By:-4.01uT	Bz:8.30uT
+Tensões de Referência:
+ Vx = 20.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 2.88 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 548 510 511
+Bx:-53.06uT	By:-4.11uT	Bz:8.21uT
+Tensões de Referência:
+ Vx = 21.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 3.18 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV000 552 510 510
+Bx:-57.04uT	By:-4.19uT	Bz:8.16uT
+Tensões de Referência:
+ Vx = 22.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 3.33 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 554 510 511
+Bx:-61.04uT	By:-4.28uT	Bz:8.08uT
+Tensões de Referência:
+ Vx = 23.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 3.41 A | Iy = -0.07 A | Iz = -0.15 A 
+$INV000 555 509 512
+Bx:-64.98uT	By:-4.38uT	Bz:8.01uT
+Tensões de Referência:
+ Vx = 24.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 3.64 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 558 510 511
+Bx:-68.98uT	By:-4.47uT	Bz:7.94uT
+Tensões de Referência:
+ Vx = 25.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 3.71 A | Iy = 0.07 A | Iz = -0.07 A 
+$INV000 559 511 511
+Bx:-72.91uT	By:-4.56uT	Bz:7.86uT
+Tensões de Referência:
+ Vx = 26.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 3.86 A | Iy = 0.07 A | Iz = -0.07 A 
+$INV000 561 511 511
+Bx:-76.81uT	By:-4.66uT	Bz:7.80uT
+Tensões de Referência:
+ Vx = 27.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 3.94 A | Iy = -0.07 A | Iz = -0.07 A 
+$INV000 562 509 511
+Bx:-80.77uT	By:-4.75uT	Bz:7.74uT
+Tensões de Referência:
+ Vx = 28.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 4.17 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV000 565 509 510
+Bx:-84.68uT	By:-4.84uT	Bz:7.68uT
+Tensões de Referência:
+ Vx = 29.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 4.32 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 567 510 511
+Bx:-88.55uT	By:-4.93uT	Bz:7.59uT
+Tensões de Referência:
+ Vx = 30.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 4.55 A | Iy = 0.07 A | Iz = 0.00 A 
+$INV000 570 511 510
+Bx:-92.44uT	By:-5.03uT	Bz:7.52uT
+Tensões de Referência:
+ Vx = 31.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 4.62 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV000 571 509 510
+Bx:-96.30uT	By:-5.12uT	Bz:7.48uT
+Tensões de Referência:
+ Vx = 32.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 4.77 A | Iy = 0.07 A | Iz = -0.07 A 
+$INV000 573 511 511
+Bx:-100.15uT	By:-5.23uT	Bz:7.39uT
+Tensões de Referência:
+ Vx = 33.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 4.85 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV000 574 510 510
+Bx:-104.00uT	By:-5.31uT	Bz:7.34uT
+Tensões de Referência:
+ Vx = 34.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 5.08 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV000 577 510 510
+Bx:-107.82uT	By:-5.41uT	Bz:7.26uT
+Tensões de Referência:
+ Vx = 35.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 5.15 A | Iy = 0.07 A | Iz = 0.00 A 
+$INV000 578 511 510
+Bx:-111.60uT	By:-5.51uT	Bz:7.21uT
+Tensões de Referência:
+ Vx = 36.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 5.38 A | Iy = -0.07 A | Iz = 0.00 A 
+$INV000 581 509 510
+Bx:-115.40uT	By:-5.61uT	Bz:7.14uT
+Tensões de Referência:
+ Vx = 37.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 5.45 A | Iy = 0.00 A | Iz = -0.15 A 
+$INV000 582 510 512
+Bx:-119.18uT	By:-5.70uT	Bz:7.08uT
+Tensões de Referência:
+ Vx = 38.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 5.68 A | Iy = 0.00 A | Iz = 0.00 A 
+$INV000 585 510 510
+Bx:-122.92uT	By:-5.80uT	Bz:6.98uT
+Tensões de Referência:
+ Vx = 39.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 5.91 A | Iy = -0.07 A | Iz = -0.07 A 
+$INV000 588 509 511
+Bx:-126.70uT	By:-5.90uT	Bz:6.90uT
+Tensões de Referência:
+ Vx = 40.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 5.98 A | Iy = 0.22 A | Iz = -0.15 A 
+$INV000 589 513 512
+Bx:-130.42uT	By:-5.99uT	Bz:6.84uT
+A:{A:.2f}
+D:{D:.2f}
+G:{G:.2f}
+-40	177.53940484304442	1.502185942581088	12.340500424264167
+-39	173.56180949019998	1.4060192697197509	12.288831080456989
+-38	169.48156651534666	1.290619262286146	12.204868396770326
+-37	165.58095687900885	1.1944525894248093	12.153199052963148
+-36	161.5648686679111	1.085463693515294	12.069236369276483
+-35	157.56161140956442	0.9892970206539567	12.004649689517509
+-34	153.58401605671997	0.8931303477926196	11.940063009758541
+-33	149.6000052275	0.7969636749312824	11.869017662023667
+-32	145.8020432131711	0.6879747790217671	11.804430982264698
+-31	142.06823596259775	0.5982192176845191	11.733385634529824
+-30	138.28310490101998	0.4956414332990928	11.662340286794958
+-29	134.4851428866911	0.3994747604377556	11.617129610963676
+-28	130.70642730148887	0.30330808757641864	11.507332255373429
+-27	126.91488076353555	0.20073030319099233	11.442745575614452
+-26	123.09767232008	0.10456363032965513	11.35878289192779
+-25	119.3317876876289	0.008396957468318129	11.281278876217025
+-24	115.51457924417335	-0.08135860386893	11.21669219645805
+-23	111.71020175346892	-0.177525276730267	11.177940188602667
+-22	107.95073259739337	-0.2672808380675151	11.126270844795489
+-21	104.1206932011867	-0.36985862245294143	11.035849493132927
+-20	100.28423832860447	-0.4596141837901893	10.96480414539806
+-19	96.52476917252893	-0.5557808566515264	10.91313480159088
+-18	92.6754833471956	-0.6455364179887744	10.829172117904218
+-17	88.80053561636004	-0.7417030908501115	10.751668102193452
+-16	85.04748193666003	-0.8378697637114486	10.693540090410377
+-15	81.19178063495116	-0.9276253250486965	10.609577406723712
+-14	77.36174123874449	-1.0173808863859448	10.557908062916534
+-13	73.58302565354228	-1.1135475592472817	10.486862715181667
+-12	69.72090887545784	-1.1968920090604405	10.409358699470902
+-11	65.8587920973734	-1.2994697934458668	10.338313351736028
+-10	62.080076512171175	-1.3828142432590256	10.280185339952952
+-9	58.211544257711175	-1.4725698045962736	10.1833053203145
+-8	54.3686739087534	-1.5687364774576107	10.138094644483218
+-7	50.56429641804896	-1.6584920387948587	10.060590628772447
+-6	46.72142606909119	-1.7482476001321066	9.98954528103758
+-5	42.87855572013341	-1.8380031614693548	9.950793273182198
+-4	39.09984013493119	-1.9213476112825136	9.89266526139912
+-3	35.23130788047119	-2.017514284143851	9.808702577712458
+-2	31.369191102386754	-2.1008587339570095	9.73765722997759
+-1	27.58406004080898	-2.1906142952942576	9.666611882242716
+0	23.683450404471202	-2.280369856631505	9.563273194628366
+1	19.879072913766763	-2.376536529492843	9.530979854748875
+2	16.06186447031121	-2.4662920908300903	9.466393174989907
+3	12.186916739475654	-2.5496365406432493	9.388889159279142
+4	8.331215437766774	-2.6522143250286754	9.317843811544268
+5	4.526837947062332	-2.7355587748418344	9.253257131785299
+6	0.6647211689778887	-2.8253143361790825	9.175753116074535
+7	-3.1717337036043287	-2.9150698975163305	9.104707768339662
+8	-6.944033812430994	-3.0112365703776676	9.05949709250838
+9	-10.8253970196421	-3.0881699086667376	8.96261707286992
+10	-14.616943557595429	-3.1907476930521637	8.936782400966335
+11	-18.42132104829987	-3.2740921428653222	8.85927838525557
+12	-22.2577759208821	-3.3702588157266598	8.781774369544797
+13	-26.087815317088754	-3.460014377063908	8.691353017882243
+14	-29.866530902290982	-3.5497699384011554	8.613849002171472
+15	-33.69015482212209	-3.6395254997384034	8.542803654436605
+16	-37.47528588369987	-3.7356921725997405	8.491134310629427
+17	-41.22833956339986	-3.8254477339369886	8.413630294918661
+18	-45.05837895960652	-3.908792183750147	8.361960951111483
+19	-49.087298123455405	-4.011369968135574	8.303832939328405
+20	-53.064893476299844	-4.107536640996911	8.206952919689952
+21	-57.03607335276874	-4.19088109081007	8.161742243858672
+22	-61.0393306111154	-4.280636652147318	8.0842382281479
+23	-64.98484858208207	-4.376803325008655	8.013192880413033
+24	-68.97527488767763	-4.4665588863459025	7.935688864702268
+25	-72.91437738226871	-4.56272555920724	7.864643516967394
+26	-76.81498701860649	-4.658892232068577	7.800056837208426
+27	-80.77333594232428	-4.7486477934058255	7.735470157449451
+28	-84.68036105503761	-4.844814466267162	7.677342145666381
+29	-88.54889330949759	-4.93457002760441	7.586920794003819
+30	-92.44308746945983	-5.030736700465747	7.515875446268946
+31	-96.2987887711687	-5.120492261802996	7.483582106389462
+32	-100.15449007287758	-5.229481157712511	7.386702086751002
+33	-103.99736042183537	-5.312825607525669	7.341491410919721
+34	-107.82098434166646	-5.408992280387006	7.263987395208956
+35	-111.5996999268687	-5.511570064772433	7.212318051401778
+36	-115.39766194119757	-5.607736737633769	7.14127270366691
+37	-119.1763775263998	-5.703903410495107	7.076686023907936
+38	-122.91660025334868	-5.800070083356445	6.979806004269475
+39	-126.6953158385509	-5.896236756217782	6.902301988558711
+40	-130.42270761274867	-5.992403429079118	6.837715308799742
+
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.38 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 515 510 511
+------------------------------------------
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -40.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 3.66 A | Iz = -0.07 A 
+$INV010 510 559 511
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -40.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -5.82 A | Iz = -0.07 A 
+$INV010 511 432 511
+Bx:28.98uT	By:-142.84uT	Bz:9.78uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -39.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = -5.60 A | Iz = 0.07 A 
+$INV010 509 435 509
+Bx:28.87uT	By:-139.22uT	Bz:9.83uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -38.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -5.52 A | Iz = -0.07 A 
+$INV010 511 436 511
+Bx:28.73uT	By:-135.60uT	Bz:9.83uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -37.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -5.30 A | Iz = 0.00 A 
+$INV010 510 439 510
+Bx:28.62uT	By:-132.05uT	Bz:9.88uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -36.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -5.07 A | Iz = -0.07 A 
+$INV010 510 442 511
+Bx:28.51uT	By:-128.45uT	Bz:9.91uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -35.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -5.00 A | Iz = -0.07 A 
+$INV010 511 443 511
+Bx:28.36uT	By:-124.83uT	Bz:9.91uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -34.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -4.78 A | Iz = -0.07 A 
+$INV010 510 446 511
+Bx:28.24uT	By:-121.26uT	Bz:9.93uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -33.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -4.70 A | Iz = -0.15 A 
+$INV010 510 447 512
+Bx:28.12uT	By:-117.64uT	Bz:9.95uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -32.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.15 A | Iy = -4.55 A | Iz = 0.00 A 
+$INV010 512 449 510
+Bx:27.99uT	By:-114.01uT	Bz:9.96uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -31.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -4.48 A | Iz = 0.00 A 
+$INV010 510 450 510
+Bx:27.87uT	By:-110.42uT	Bz:9.99uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -30.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -4.33 A | Iz = 0.07 A 
+$INV010 510 452 509
+Bx:27.76uT	By:-106.77uT	Bz:10.01uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -29.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -4.10 A | Iz = -0.07 A 
+$INV010 510 455 511
+Bx:27.65uT	By:-103.11uT	Bz:10.03uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -28.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.15 A | Iy = -4.03 A | Iz = 0.07 A 
+$INV010 512 456 509
+Bx:27.51uT	By:-99.52uT	Bz:10.04uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -27.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -3.81 A | Iz = -0.07 A 
+$INV010 510 459 511
+Bx:27.37uT	By:-96.00uT	Bz:10.03uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -26.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = -3.73 A | Iz = 0.00 A 
+$INV010 509 460 510
+Bx:27.23uT	By:-92.56uT	Bz:10.03uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -25.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -3.51 A | Iz = 0.00 A 
+$INV010 511 463 510
+Bx:27.09uT	By:-89.16uT	Bz:10.02uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -24.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -3.43 A | Iz = -0.15 A 
+$INV010 510 464 512
+Bx:26.97uT	By:-85.70uT	Bz:10.03uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -23.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -3.28 A | Iz = 0.00 A 
+$INV010 510 466 510
+Bx:26.83uT	By:-82.23uT	Bz:10.03uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -22.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -3.13 A | Iz = 0.00 A 
+$INV010 511 468 510
+Bx:26.73uT	By:-78.82uT	Bz:10.06uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -21.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -2.99 A | Iz = 0.00 A 
+$INV010 511 470 510
+Bx:26.58uT	By:-75.35uT	Bz:10.04uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -20.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -2.91 A | Iz = -0.07 A 
+$INV010 511 471 511
+Bx:26.45uT	By:-71.89uT	Bz:10.03uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -19.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -2.76 A | Iz = -0.07 A 
+$INV010 510 473 511
+Bx:26.31uT	By:-68.46uT	Bz:10.03uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -18.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -2.61 A | Iz = -0.07 A 
+$INV010 510 475 511
+Bx:26.17uT	By:-64.99uT	Bz:10.01uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -17.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -2.46 A | Iz = -0.15 A 
+$INV010 510 477 512
+Bx:26.02uT	By:-61.52uT	Bz:9.99uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -16.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -2.31 A | Iz = -0.15 A 
+$INV010 510 479 512
+Bx:25.92uT	By:-58.09uT	Bz:10.01uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -15.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -2.09 A | Iz = -0.07 A 
+$INV010 511 482 511
+Bx:25.77uT	By:-54.58uT	Bz:10.00uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -14.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -2.01 A | Iz = -0.07 A 
+$INV010 511 483 511
+Bx:25.63uT	By:-51.09uT	Bz:9.98uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -13.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -1.94 A | Iz = 0.00 A 
+$INV010 510 484 510
+Bx:25.49uT	By:-47.66uT	Bz:9.95uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -12.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -1.72 A | Iz = -0.07 A 
+$INV010 510 487 511
+Bx:25.34uT	By:-44.15uT	Bz:9.92uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -11.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -1.57 A | Iz = -0.07 A 
+$INV010 511 489 511
+Bx:25.20uT	By:-40.68uT	Bz:9.91uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -10.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = -1.42 A | Iz = 0.00 A 
+$INV010 509 491 510
+Bx:25.08uT	By:-37.23uT	Bz:9.89uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -9.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = -1.34 A | Iz = -0.07 A 
+$INV010 509 492 511
+Bx:24.93uT	By:-33.73uT	Bz:9.88uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -8.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -1.12 A | Iz = 0.00 A 
+$INV010 511 495 510
+Bx:24.79uT	By:-30.22uT	Bz:9.85uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -7.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.97 A | Iz = 0.00 A 
+$INV010 510 497 510
+Bx:24.63uT	By:-26.76uT	Bz:9.82uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -6.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.82 A | Iz = 0.00 A 
+$INV010 510 499 510
+Bx:24.48uT	By:-23.26uT	Bz:9.78uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -5.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.75 A | Iz = 0.00 A 
+$INV010 510 500 510
+Bx:24.34uT	By:-19.75uT	Bz:9.76uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -4.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.52 A | Iz = -0.07 A 
+$INV010 510 503 511
+Bx:24.17uT	By:-16.30uT	Bz:9.71uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -3.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -0.45 A | Iz = 0.00 A 
+$INV010 511 504 510
+Bx:24.04uT	By:-12.79uT	Bz:9.69uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -2.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.30 A | Iz = -0.07 A 
+$INV010 510 506 511
+Bx:23.90uT	By:-9.29uT	Bz:9.66uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = -1.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = -0.15 A | Iz = 0.00 A 
+$INV010 509 508 510
+Bx:23.74uT	By:-5.82uT	Bz:9.61uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 510 510 511
+Bx:23.59uT	By:-2.29uT	Bz:9.58uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 1.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.07 A | Iz = 0.07 A 
+$INV000 510 511 509
+Bx:23.43uT	By:1.19uT	Bz:9.52uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 2.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.15 A | Iy = 0.30 A | Iz = 0.00 A 
+$INV000 512 514 510
+Bx:23.30uT	By:4.69uT	Bz:9.51uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 3.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.37 A | Iz = -0.07 A 
+$INV000 511 515 511
+Bx:23.13uT	By:8.20uT	Bz:9.45uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 4.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.60 A | Iz = 0.00 A 
+$INV000 511 518 510
+Bx:22.96uT	By:11.72uT	Bz:9.40uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 5.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 0.67 A | Iz = -0.15 A 
+$INV000 509 519 512
+Bx:22.82uT	By:15.18uT	Bz:9.36uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 6.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.52 A | Iz = -0.07 A 
+$INV000 510 517 511
+Bx:22.66uT	By:18.70uT	Bz:9.30uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 7.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 1.04 A | Iz = 0.00 A 
+$INV000 510 524 510
+Bx:22.53uT	By:22.22uT	Bz:9.28uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 8.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 1.04 A | Iz = 0.07 A 
+$INV000 511 524 509
+Bx:22.36uT	By:25.70uT	Bz:9.23uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 9.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 1.34 A | Iz = 0.00 A 
+$INV000 510 528 510
+Bx:22.20uT	By:29.22uT	Bz:9.16uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 10.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 1.34 A | Iz = 0.00 A 
+$INV000 510 528 510
+Bx:22.03uT	By:32.73uT	Bz:9.10uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 11.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 1.57 A | Iz = -0.07 A 
+$INV000 510 531 511
+Bx:21.87uT	By:36.19uT	Bz:9.03uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 12.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 1.64 A | Iz = -0.15 A 
+$INV000 511 532 512
+Bx:21.70uT	By:39.69uT	Bz:8.98uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 13.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 1.79 A | Iz = 0.00 A 
+$INV000 511 534 510
+Bx:21.53uT	By:43.20uT	Bz:8.91uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 14.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 1.94 A | Iz = 0.00 A 
+$INV000 511 536 510
+Bx:21.37uT	By:46.66uT	Bz:8.87uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 15.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 2.09 A | Iz = 0.00 A 
+$INV000 510 538 510
+Bx:21.23uT	By:50.15uT	Bz:8.81uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 16.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 2.24 A | Iz = -0.07 A 
+$INV000 511 540 511
+Bx:21.03uT	By:53.66uT	Bz:8.73uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 17.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 2.39 A | Iz = -0.07 A 
+$INV000 510 542 511
+Bx:20.85uT	By:57.11uT	Bz:8.63uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 18.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 2.54 A | Iz = -0.15 A 
+$INV000 509 544 512
+Bx:20.67uT	By:60.61uT	Bz:8.56uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 19.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 2.69 A | Iz = 0.00 A 
+$INV000 510 546 510
+Bx:20.51uT	By:64.09uT	Bz:8.49uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 20.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 2.76 A | Iz = 0.07 A 
+$INV000 510 547 509
+Bx:20.33uT	By:67.51uT	Bz:8.43uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 21.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 2.99 A | Iz = 0.00 A 
+$INV000 510 550 510
+Bx:20.15uT	By:70.99uT	Bz:8.34uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 22.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 3.13 A | Iz = 0.00 A 
+$INV000 509 552 510
+Bx:19.96uT	By:74.46uT	Bz:8.25uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 23.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 3.21 A | Iz = -0.07 A 
+$INV000 510 553 511
+Bx:19.81uT	By:77.87uT	Bz:8.20uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 24.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 3.43 A | Iz = 0.07 A 
+$INV000 510 556 509
+Bx:19.63uT	By:81.35uT	Bz:8.12uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 25.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 3.51 A | Iz = -0.15 A 
+$INV000 510 557 512
+Bx:19.44uT	By:84.81uT	Bz:8.03uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 26.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 3.73 A | Iz = -0.07 A 
+$INV000 510 560 511
+Bx:19.28uT	By:88.20uT	Bz:7.96uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 27.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 3.81 A | Iz = 0.07 A 
+$INV000 510 561 509
+Bx:19.12uT	By:91.61uT	Bz:7.89uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 28.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 3.96 A | Iz = -0.22 A 
+$INV000 510 563 513
+Bx:18.89uT	By:95.06uT	Bz:7.76uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 29.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 4.10 A | Iz = 0.00 A 
+$INV000 509 565 510
+Bx:18.72uT	By:98.60uT	Bz:7.69uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 30.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 4.25 A | Iz = 0.00 A 
+$INV000 510 567 510
+Bx:18.53uT	By:102.24uT	Bz:7.59uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 31.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 4.33 A | Iz = -0.07 A 
+$INV000 510 568 511
+Bx:18.35uT	By:105.86uT	Bz:7.52uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 32.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 4.48 A | Iz = 0.00 A 
+$INV000 510 570 510
+Bx:18.18uT	By:109.43uT	Bz:7.43uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 33.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 4.63 A | Iz = 0.00 A 
+$INV000 510 572 510
+Bx:17.97uT	By:113.04uT	Bz:7.31uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 34.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 4.85 A | Iz = -0.07 A 
+$INV000 511 575 511
+Bx:17.77uT	By:116.63uT	Bz:7.21uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 35.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 5.00 A | Iz = -0.22 A 
+$INV000 509 577 513
+Bx:17.56uT	By:120.12uT	Bz:7.08uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 36.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 5.15 A | Iz = -0.07 A 
+$INV000 510 579 511
+Bx:17.35uT	By:123.70uT	Bz:6.96uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 37.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 5.22 A | Iz = -0.07 A 
+$INV000 510 580 511
+Bx:17.15uT	By:127.24uT	Bz:6.86uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 38.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 5.37 A | Iz = -0.07 A 
+$INV000 510 582 511
+Bx:16.92uT	By:130.74uT	Bz:6.72uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 39.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 5.45 A | Iz = -0.07 A 
+$INV000 510 583 511
+Bx:16.74uT	By:134.29uT	Bz:6.62uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 40.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 5.67 A | Iz = 0.00 A 
+$INV000 510 586 510
+Bx:16.52uT	By:137.84uT	Bz:6.48uT
+B:-0.15
+E:3.49
+H:-0.04
+-40	28.97621841430453	-142.83757891076183	9.782867905808871
+-39	28.873570792295645	-139.22171201117558	9.83453724961605
+-38	28.726014835657868	-135.5994340000652	9.83453724961605
+-37	28.623367213648976	-132.0540893272439	9.879747925447331
+-36	28.51430411526453	-128.4510446507058	9.912041265326815
+-35	28.360332682251197	-124.82876663959544	9.905582597350916
+-34	28.238438631115645	-121.26418863220188	9.931417269254503
+-33	28.11654457998009	-117.64191062109151	9.950793273182198
+-32	27.988235052468976	-114.00681038693297	9.957251941158095
+-31	27.86634100133342	-110.41658793344304	9.98954528103758
+-30	27.757277902948978	-106.76866547623634	10.008921284965274
+-29	27.64821480456453	-103.11433190750552	10.03475595686886
+-28	27.50707432430231	-99.52410945401559	10.04121462484476
+-27	27.372349320415648	-95.99799811576658	10.03475595686886
+-26	27.23120884015342	-92.55523122733071	10.03475595686886
+-25	27.090068359891198	-89.16375323108754	10.015379952941165
+-24	26.9745897851312	-85.70175300807941	10.03475595686886
+-23	26.833449304868978	-82.23334167354719	10.03475595686886
+-22	26.73080168286009	-78.82263034273176	10.060590628772447
+-21	26.576830249846758	-75.35421900819954	10.04121462484476
+-20	26.448520722335648	-71.8858076736673	10.03475595686886
+-19	26.31379571844898	-68.46227411980371	10.03475595686886
+-18	26.1662397618112	-64.99386278527147	10.008921284965274
+-17	26.01868380517342	-61.519040339215174	9.98954528103758
+-16	25.92245165954009	-58.08909567382749	10.008921284965274
+-15	25.774895702902313	-54.58221767015072	10.002462616989376
+-14	25.63375522264009	-51.09457300104623	9.976627945085783
+-13	25.486199266002313	-47.65821722413445	9.950793273182198
+-12	25.338643309364535	-44.15133922045769	9.918499933302712
+-11	25.197502829102312	-40.67651677440137	9.912041265326815
+-10	25.08202425434231	-37.227338774441414	9.89266526139912
+-9	24.934468297704534	-33.733282993812836	9.879747925447331
+-8	24.78691234106676	-30.219993878611987	9.853913253543737
+-7	24.632940908053424	-26.757993655603848	9.815161245688355
+-6	24.478969475040092	-23.257526763451175	9.776409237832972
+-5	24.33782899477787	-19.750648759774418	9.757033233905277
+-4	24.171026609013424	-16.295059648290366	9.705363890098106
+-3	24.042717081502314	-12.788181644613609	9.68598788617041
+-2	23.895161124864536	-9.287714752460937	9.660153214266826
+-1	23.741189691851204	-5.819303417928712	9.614942538435544
+0	23.593633735213423	-2.2867809681555946	9.576190530580154
+1	23.42683134944898	1.1944525894248093	9.518062518797086
+2	23.29852182193787	4.688508370053392	9.511603850821187
+3	23.131719436173423	8.195386373730152	9.45347583903811
+4	22.96491705040898	11.721497711979179	9.40180649523093
+5	22.823776570146762	15.177086823463226	9.363054487375548
+6	22.656974184382314	18.696787050188163	9.304926475592477
+7	22.528664656871204	22.222898388437194	9.279091803688885
+8	22.361862271106762	25.69772083449351	9.227422459881707
+9	22.195059885342314	29.217421061218445	9.162835780122737
+10	22.02825749957787	32.7307101764193	9.104707768339662
+11	21.867870590188982	36.192710399427426	9.033662420604793
+12	21.701068204424537	39.68676618005601	8.981993076797615
+13	21.534265818660096	43.20005529525686	8.910947729062748
+14	21.373878909271202	46.65564440674091	8.865737053231468
+15	21.226322952633428	50.14970018736949	8.81406770942429
+16	21.027443184991203	53.662989302570345	8.730105025737625
+17	20.847809846475645	57.105756191006215	8.633225006099167
+18	20.674591984335645	60.60622308315887	8.562179658364293
+19	20.507789598571204	64.08745664073929	8.491134310629427
+20	20.334571736431204	67.5109901946029	8.43300629884635
+21	20.148522921540092	70.9922237521833	8.342584947183788
+22	19.962474106648987	74.46063508671551	8.252163595521234
+23	19.808502673635648	77.87134641753094	8.200494251714055
+24	19.628869335120093	81.34616886358727	8.11653156802739
+25	19.442820520228988	84.8081690865954	8.032568884340728
+26	19.276018134464536	88.19964708283855	7.9615235366058545
+27	19.11563122507565	91.61035841365398	7.890478188870987
+28	18.891089551931206	95.05953641361393	7.761304829353044
+29	18.72428716616676	98.60488108643523	7.69025948161817
+30	18.531822874900094	102.23998132059377	7.586920794003819
+31	18.352189536384543	105.86225933170414	7.515875446268946
+32	18.178971674244536	109.4268373390977	7.431912762582282
+33	17.97367643022676	113.0362931271599	7.309198071040237
+34	17.774796662584542	116.62651558064981	7.205859383425879
+35	17.56308594219121	120.1205713612784	7.083144691883834
+36	17.351375221797873	123.69797159172013	6.960430000341788
+37	17.152495454155652	127.23690515301735	6.85709131272743
+38	16.92153830463565	130.74378315669412	6.71500061725769
+39	16.741904966120096	134.2891278295154	6.624579265595129
+40	16.51736329297565	137.8408836138608	6.482488570125395
+
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.67 A | Iz = -0.07 A 
+$INV000 510 519 511
+------------------------------------------
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -40.000 V 
+Correntes Medidas:
+ Ix = 0.15 A | Iy = 0.00 A | Iz = 2.61 A 
+$INV100 512 510 475
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -40.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -0.07 A | Iz = -5.60 A 
+$INV100 511 509 585
+Bx:23.37uT	By:-2.54uT	Bz:-133.92uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -39.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = -5.45 A 
+$INV100 511 510 583
+Bx:23.34uT	By:-2.54uT	Bz:-130.42uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -38.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = -5.30 A 
+$INV100 511 510 581
+Bx:23.34uT	By:-2.54uT	Bz:-126.90uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -37.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = -5.07 A 
+$INV100 511 510 578
+Bx:23.35uT	By:-2.54uT	Bz:-123.43uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -36.000 V 
+Correntes Medidas:
+ Ix = 0.15 A | Iy = 0.00 A | Iz = -4.93 A 
+$INV100 512 510 576
+Bx:23.36uT	By:-2.52uT	Bz:-119.91uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -35.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 0.00 A | Iz = -4.85 A 
+$INV100 509 510 575
+Bx:23.36uT	By:-2.52uT	Bz:-116.35uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -34.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = -0.07 A | Iz = -4.93 A 
+$INV100 509 509 576
+Bx:23.40uT	By:-2.51uT	Bz:-112.84uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -33.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.07 A | Iz = -4.63 A 
+$INV100 510 511 572
+Bx:23.40uT	By:-2.51uT	Bz:-109.27uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -32.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = -4.40 A 
+$INV100 510 509 569
+Bx:23.41uT	By:-2.50uT	Bz:-105.69uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -31.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = -4.40 A 
+$INV100 511 510 569
+Bx:23.41uT	By:-2.49uT	Bz:-102.18uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -30.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -0.07 A | Iz = -4.18 A 
+$INV100 511 509 566
+Bx:23.45uT	By:-2.48uT	Bz:-98.56uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -29.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 0.00 A | Iz = -4.03 A 
+$INV100 509 510 564
+Bx:23.45uT	By:-2.47uT	Bz:-94.96uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -28.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.07 A | Iz = -3.88 A 
+$INV100 511 511 562
+Bx:23.47uT	By:-2.47uT	Bz:-91.41uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -27.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 0.00 A | Iz = -3.73 A 
+$INV100 509 510 560
+Bx:23.45uT	By:-2.45uT	Bz:-87.79uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -26.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = -3.73 A 
+$INV100 510 510 560
+Bx:23.47uT	By:-2.45uT	Bz:-84.15uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -25.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = -3.51 A 
+$INV100 510 510 557
+Bx:23.47uT	By:-2.45uT	Bz:-80.56uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -24.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -0.15 A | Iz = -3.36 A 
+$INV100 511 508 555
+Bx:23.49uT	By:-2.44uT	Bz:-76.88uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -23.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.15 A | Iz = -3.28 A 
+$INV100 510 508 554
+Bx:23.47uT	By:-2.43uT	Bz:-73.26uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -22.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = -3.13 A 
+$INV100 510 509 552
+Bx:23.51uT	By:-2.43uT	Bz:-69.61uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -21.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -0.07 A | Iz = -3.06 A 
+$INV100 511 509 551
+Bx:23.49uT	By:-2.42uT	Bz:-65.95uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -20.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = -0.07 A | Iz = -2.76 A 
+$INV100 509 509 547
+Bx:23.52uT	By:-2.41uT	Bz:-62.22uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -19.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = -2.69 A 
+$INV100 510 510 546
+Bx:23.52uT	By:-2.40uT	Bz:-58.59uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -18.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 0.00 A | Iz = -2.46 A 
+$INV100 509 510 543
+Bx:23.56uT	By:-2.40uT	Bz:-54.84uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -17.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = -2.39 A 
+$INV100 510 510 542
+Bx:23.56uT	By:-2.38uT	Bz:-51.12uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -16.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = -2.24 A 
+$INV100 510 509 540
+Bx:23.54uT	By:-2.38uT	Bz:-47.49uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -15.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = -2.16 A 
+$INV100 510 509 539
+Bx:23.56uT	By:-2.37uT	Bz:-43.84uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -14.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.07 A | Iz = -1.94 A 
+$INV100 510 511 536
+Bx:23.59uT	By:-2.37uT	Bz:-40.32uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -13.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -0.15 A | Iz = -1.79 A 
+$INV100 511 508 534
+Bx:23.58uT	By:-2.36uT	Bz:-36.84uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -12.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 0.00 A | Iz = -1.64 A 
+$INV100 509 510 532
+Bx:23.57uT	By:-2.35uT	Bz:-33.31uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -11.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.15 A | Iz = -1.72 A 
+$INV100 510 508 533
+Bx:23.62uT	By:-2.34uT	Bz:-29.74uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -10.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -0.07 A | Iz = -1.34 A 
+$INV100 511 509 528
+Bx:23.62uT	By:-2.33uT	Bz:-26.24uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -9.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = -1.27 A 
+$INV100 510 510 527
+Bx:23.62uT	By:-2.33uT	Bz:-22.68uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -8.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = -1.12 A 
+$INV100 511 510 525
+Bx:23.62uT	By:-2.33uT	Bz:-19.13uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -7.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.07 A | Iz = -1.04 A 
+$INV100 510 511 524
+Bx:23.61uT	By:-2.31uT	Bz:-15.63uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -6.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = -0.07 A | Iz = -0.82 A 
+$INV100 509 509 521
+Bx:23.64uT	By:-2.31uT	Bz:-12.04uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -5.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = -0.75 A 
+$INV100 511 510 520
+Bx:23.66uT	By:-2.30uT	Bz:-8.45uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -4.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = -0.60 A 
+$INV100 510 509 518
+Bx:23.66uT	By:-2.30uT	Bz:-4.93uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -3.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = -0.07 A | Iz = -0.45 A 
+$INV100 511 509 516
+Bx:23.66uT	By:-2.29uT	Bz:-1.35uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -2.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = -0.37 A 
+$INV100 511 510 515
+Bx:23.68uT	By:-2.28uT	Bz:2.25uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = -1.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = -0.15 A 
+$INV100 510 509 512
+Bx:23.66uT	By:-2.27uT	Bz:5.77uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = -0.07 A 
+$INV000 510 510 511
+Bx:23.68uT	By:-2.26uT	Bz:9.39uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 1.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 0.07 A 
+$INV000 510 509 509
+Bx:23.68uT	By:-2.26uT	Bz:12.99uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 2.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = 0.22 A 
+$INV000 511 510 507
+Bx:23.70uT	By:-2.25uT	Bz:16.60uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 3.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.15 A | Iz = 0.45 A 
+$INV000 510 508 504
+Bx:23.70uT	By:-2.25uT	Bz:20.23uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 4.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 0.45 A 
+$INV000 510 509 504
+Bx:23.71uT	By:-2.24uT	Bz:23.89uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 5.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = 0.67 A 
+$INV000 510 510 501
+Bx:23.70uT	By:-2.23uT	Bz:27.46uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 6.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.07 A | Iz = 0.75 A 
+$INV000 510 511 500
+Bx:23.73uT	By:-2.23uT	Bz:31.12uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 7.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 0.90 A 
+$INV000 510 509 498
+Bx:23.73uT	By:-2.22uT	Bz:34.77uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 8.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = 1.12 A 
+$INV000 511 510 495
+Bx:23.76uT	By:-2.21uT	Bz:38.39uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 9.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = -0.07 A | Iz = 1.12 A 
+$INV000 509 509 495
+Bx:23.75uT	By:-2.20uT	Bz:42.02uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 10.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = 1.34 A 
+$INV000 510 510 492
+Bx:23.74uT	By:-2.20uT	Bz:45.67uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 11.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 1.49 A 
+$INV000 510 509 490
+Bx:23.75uT	By:-2.19uT	Bz:49.27uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 12.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.30 A | Iz = 1.64 A 
+$INV000 510 506 488
+Bx:23.78uT	By:-2.18uT	Bz:52.92uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 13.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = 1.87 A 
+$INV000 511 510 485
+Bx:23.77uT	By:-2.18uT	Bz:56.56uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 14.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = 1.87 A 
+$INV000 510 510 485
+Bx:23.79uT	By:-2.17uT	Bz:60.17uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 15.000 V 
+Correntes Medidas:
+ Ix = -0.15 A | Iy = 0.00 A | Iz = 2.01 A 
+$INV000 508 510 483
+Bx:23.79uT	By:-2.16uT	Bz:63.80uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 16.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = 2.24 A 
+$INV000 510 510 480
+Bx:23.81uT	By:-2.16uT	Bz:67.46uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 17.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.15 A | Iz = 2.31 A 
+$INV000 510 508 479
+Bx:23.79uT	By:-2.15uT	Bz:71.03uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 18.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 2.54 A 
+$INV000 510 509 476
+Bx:23.83uT	By:-2.14uT	Bz:74.70uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 19.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 2.61 A 
+$INV000 510 509 475
+Bx:23.82uT	By:-2.14uT	Bz:78.33uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 20.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 2.76 A 
+$INV000 510 509 473
+Bx:23.81uT	By:-2.13uT	Bz:81.90uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 21.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = 2.91 A 
+$INV000 510 510 471
+Bx:23.87uT	By:-2.12uT	Bz:85.58uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 22.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 3.06 A 
+$INV000 510 509 469
+Bx:23.85uT	By:-2.11uT	Bz:89.19uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 23.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 3.28 A 
+$INV000 510 509 466
+Bx:23.87uT	By:-2.11uT	Bz:92.76uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 24.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 3.28 A 
+$INV000 510 509 466
+Bx:23.87uT	By:-2.10uT	Bz:96.37uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 25.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = 3.43 A 
+$INV000 510 510 464
+Bx:23.89uT	By:-2.09uT	Bz:100.00uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 26.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 0.00 A | Iz = 3.66 A 
+$INV000 509 510 461
+Bx:23.88uT	By:-2.09uT	Bz:103.56uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 27.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 3.66 A 
+$INV000 510 509 461
+Bx:23.91uT	By:-2.08uT	Bz:107.17uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 28.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 3.81 A 
+$INV000 510 509 459
+Bx:23.88uT	By:-2.08uT	Bz:110.74uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 29.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 3.96 A 
+$INV000 510 509 457
+Bx:23.88uT	By:-2.07uT	Bz:114.27uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 30.000 V 
+Correntes Medidas:
+ Ix = -0.15 A | Iy = 0.00 A | Iz = 4.10 A 
+$INV000 508 510 455
+Bx:23.88uT	By:-2.06uT	Bz:117.86uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 31.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 4.25 A 
+$INV000 510 509 453
+Bx:23.90uT	By:-2.05uT	Bz:121.43uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 32.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = 4.33 A 
+$INV000 510 510 452
+Bx:23.93uT	By:-2.04uT	Bz:124.97uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 33.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = 4.55 A 
+$INV000 511 510 449
+Bx:23.91uT	By:-2.04uT	Bz:128.52uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 34.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 4.48 A 
+$INV000 510 509 450
+Bx:23.94uT	By:-2.03uT	Bz:132.08uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 35.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 4.85 A 
+$INV000 510 509 445
+Bx:23.93uT	By:-2.02uT	Bz:135.55uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 36.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 5.07 A 
+$INV000 510 509 442
+Bx:23.95uT	By:-2.02uT	Bz:139.10uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 37.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = 5.22 A 
+$INV000 511 510 440
+Bx:23.95uT	By:-2.02uT	Bz:142.62uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 38.000 V 
+Correntes Medidas:
+ Ix = 0.08 A | Iy = 0.00 A | Iz = 5.22 A 
+$INV000 511 510 440
+Bx:23.96uT	By:-2.01uT	Bz:146.09uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 39.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = 0.00 A | Iz = 5.37 A 
+$INV000 510 510 438
+Bx:23.95uT	By:-2.01uT	Bz:149.58uT
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 40.000 V 
+Correntes Medidas:
+ Ix = -0.08 A | Iy = 0.00 A | Iz = 5.60 A 
+$INV000 509 510 435
+Bx:23.97uT	By:-1.99uT	Bz:153.30uT
+C:0.01	F:0.01	I:3.60
+-40	23.369092062068983	-2.5432254291191603	-133.91603588992822
+-39	23.34343015656676	-2.5432254291191603	-130.41543784699192
+-38	23.34343015656676	-2.536814317595071	-126.90192246810383
+-37	23.349845632942316	-2.536814317595071	-123.42715909707117
+-36	23.362676585693425	-2.523992094546893	-119.9136437181831
+-35	23.362676585693425	-2.5175809830228038	-116.34845899548782
+-34	23.40116944394676	-2.5111698714987147	-112.84140228457564
+-33	23.40116944394676	-2.5111698714987147	-109.26975889390447
+-32	23.414000396697872	-2.498347648450536	-105.69165683525742
+-31	23.407584920322314	-2.4919365369264472	-102.18460012434522
+-30	23.446077778575646	-2.479114313878269	-98.56128738986688
+-29	23.452493254951204	-2.4727032023541797	-94.96380932729213
+-28	23.47173968407787	-2.4662920908300903	-91.41154194054867
+-27	23.452493254951204	-2.4534698677819122	-87.78822920607033
+-26	23.465324207702313	-2.447058756257823	-84.1519991356402
+-25	23.465324207702313	-2.447058756257823	-80.56097974104136
+-24	23.490986113204535	-2.440647644733734	-76.87953899477994
+-23	23.47173968407787	-2.4278254216855557	-73.2562262603016
+-22	23.510232542331202	-2.4278254216855557	-69.60707885391969
+-21	23.490986113204535	-2.4214143101614667	-65.95147277956185
+-20	23.51664801870676	-2.4085920871132886	-62.22482135746917
+-19	23.51664801870676	-2.402180975589199	-58.58859128703904
+-18	23.561556353335646	-2.3957698640651097	-54.836105193042755
+-17	23.555140876960092	-2.3829476410169317	-51.12237110690186
+-16	23.535894447833424	-2.376536529492843	-47.48614103647172
+-15	23.561556353335646	-2.3701254179687536	-43.8434522980657
+-14	23.593633735213423	-2.3701254179687536	-40.31701958322582
+-13	23.580802782462314	-2.357303194920575	-36.83579754421722
+-12	23.57438730608676	-2.3508920833964857	-33.309364829377344
+-11	23.619295640715645	-2.3380698603483077	-29.73772143870618
+-10	23.619295640715645	-2.3316587488242186	-26.237123395769895
+-9	23.619295640715645	-2.3316587488242186	-22.684856009026426
+-8	23.619295640715645	-2.3252476373001296	-19.132588622282952
+-7	23.61288016434009	-2.312425414251951	-15.625531911370775
+-6	23.64495754621787	-2.306014302727862	-12.040971184747818
+-5	23.65778849896898	-2.299603191203773	-8.449951790148964
+-4	23.65778849896898	-2.299603191203773	-4.929977743284982
+-3	23.65778849896898	-2.2867809681555946	-1.3518756846379243
+-2	23.677034928095647	-2.280369856631505	2.2520610459127197
+-1	23.65778849896898	-2.267547633583327	5.765576424800803
+0	23.683450404471202	-2.261136522059238	9.388889159279142
+1	23.683450404471202	-2.261136522059238	12.986367221853888
+2	23.70269683359787	-2.254725410535149	16.603221288356327
+3	23.70269683359787	-2.254725410535149	20.23299269081056
+4	23.709112309973424	-2.2354920759628816	23.888598765168386
+5	23.696281357222315	-2.229080964438792	27.460242155839545
+6	23.72835873910009	-2.229080964438792	31.12230689817326
+7	23.72835873910009	-2.216258741390614	34.77145430455519
+8	23.76043612097787	-2.2098476298665246	38.388308371057626
+9	23.74760516822676	-2.1970254068183466	42.02453844148776
+10	23.741189691851204	-2.1970254068183466	45.667227179893786
+11	23.74760516822676	-2.1906142952942576	49.271163910444436
+12	23.779682550104535	-2.1842031837701685	52.92031131682636
+13	23.766851597353423	-2.1842031837701685	56.556541387256495
+14	23.792513502855645	-2.17138096072199	60.16693678578303
+15	23.792513502855645	-2.164969849197901	63.80316685621316
+16	23.80534445560676	-2.1585587376738116	67.45877293057099
+17	23.786098026480094	-2.1457365146256335	71.03041632124214
+18	23.831006361108983	-2.1393254031015445	74.69893973155176
+19	23.824590884733425	-2.1393254031015445	78.328711134006
+20	23.811759931982312	-2.126503180053366	81.90035452467716
+21	23.869499219362314	-2.120092068529277	85.57533660296268
+22	23.850252790235647	-2.113680957005188	89.18573200148923
+23	23.869499219362314	-2.113680957005188	92.75737539216038
+24	23.869499219362314	-2.1008587339570095	96.36777079068692
+25	23.88874564848898	-2.09444762243292	99.99754219314116
+26	23.87591469573787	-2.0880365109088315	103.56272691583641
+27	23.907992077615646	-2.075214287860653	107.16666364638705
+28	23.87591469573787	-2.075214287860653	110.73830703705822
+29	23.87591469573787	-2.068803176336564	114.27119841987398
+30	23.87591469573787	-2.0559809532883855	117.85575914649694
+31	23.895161124864536	-2.0495698417642965	121.4274025371681
+32	23.927238506742313	-2.043158730240207	124.97321125593565
+33	23.914407553991204	-2.043158730240207	128.51901997470324
+34	23.940069459493426	-2.030336507192029	132.07774602942263
+35	23.927238506742313	-2.0239253956679395	135.54605073247942
+36	23.952900412244535	-2.0239253956679395	139.0983181192229
+37	23.952900412244535	-2.017514284143851	142.62475083406275
+38	23.959315888620093	-2.0111031726197615	146.09305553711954
+39	23.952900412244535	-2.0111031726197615	149.58073624410406
+40	23.972146841371202	-1.9918698380474942	153.30092899822085
+
+Tensões de Referência:
+ Vx = 0.000 V | Vy = 0.000 V | Vz = 0.000 V 
+Correntes Medidas:
+ Ix = 0.00 A | Iy = -0.07 A | Iz = 1.42 A 
+$INV000 510 509 491
+------------------------------------------
+A:-3.84	B:-0.15	C:0.01
+D:-0.09	E:3.49	F:0.01
+G:-0.07	H:-0.04	I:3.60
+

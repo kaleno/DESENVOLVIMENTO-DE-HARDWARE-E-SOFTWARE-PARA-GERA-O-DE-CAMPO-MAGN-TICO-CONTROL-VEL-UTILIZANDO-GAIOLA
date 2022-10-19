@@ -1,0 +1,4 @@
+1- De 2022-07-02 01:09:24.349Z a 2022-07-02 17:30:20.257Z (175 amostras consecutivas)
+2- De 2022-06-13 14:24:12.220Z a 2022-06-14 01:54:51.723Z (137 amostras consecutivas)
+3- De 2022-07-02 22:55:38.189Z a 2022-07-03 08:01:09.222Z (104 amostras consecutivas)
+

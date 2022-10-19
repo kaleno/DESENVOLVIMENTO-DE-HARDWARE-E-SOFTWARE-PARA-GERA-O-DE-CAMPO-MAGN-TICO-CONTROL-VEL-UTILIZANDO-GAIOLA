@@ -1,0 +1,702 @@
+[
+  {
+    "Value (mG)": -411.5384826660156,
+    "Satellite Timestamp (UTC)": "2022-07-02 01:09:24.349Z"
+  },
+  {
+    "Value (mG)": -266.923095703125,
+    "Satellite Timestamp (UTC)": "2022-07-02 01:19:24.782Z"
+  },
+  {
+    "Value (mG)": -263.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 01:24:25.061Z"
+  },
+  {
+    "Value (mG)": -190.7692413330078,
+    "Satellite Timestamp (UTC)": "2022-07-02 01:29:25.348Z"
+  },
+  {
+    "Value (mG)": -263.0769348144531,
+    "Satellite Timestamp (UTC)": "2022-07-02 01:34:25.666Z"
+  },
+  {
+    "Value (mG)": -268.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 01:39:25.939Z"
+  },
+  {
+    "Value (mG)": -216.92308044433594,
+    "Satellite Timestamp (UTC)": "2022-07-02 01:49:26.507Z"
+  },
+  {
+    "Value (mG)": -172.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 01:54:26.805Z"
+  },
+  {
+    "Value (mG)": -403.0769348144531,
+    "Satellite Timestamp (UTC)": "2022-07-02 01:59:27.102Z"
+  },
+  {
+    "Value (mG)": -347.69232177734375,
+    "Satellite Timestamp (UTC)": "2022-07-02 02:04:27.424Z"
+  },
+  {
+    "Value (mG)": -213.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 02:09:27.715Z"
+  },
+  {
+    "Value (mG)": -280.76922607421875,
+    "Satellite Timestamp (UTC)": "2022-07-02 02:14:27.993Z"
+  },
+  {
+    "Value (mG)": -323.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 02:19:28.251Z"
+  },
+  {
+    "Value (mG)": -246.92308044433594,
+    "Satellite Timestamp (UTC)": "2022-07-02 02:24:28.515Z"
+  },
+  {
+    "Value (mG)": -274.6153869628906,
+    "Satellite Timestamp (UTC)": "2022-07-02 02:29:28.794Z"
+  },
+  {
+    "Value (mG)": -220,
+    "Satellite Timestamp (UTC)": "2022-07-02 02:34:29.087Z"
+  },
+  {
+    "Value (mG)": -384.6153869628906,
+    "Satellite Timestamp (UTC)": "2022-07-02 02:44:29.668Z"
+  },
+  {
+    "Value (mG)": -315.3846130371094,
+    "Satellite Timestamp (UTC)": "2022-07-02 02:49:29.942Z"
+  },
+  {
+    "Value (mG)": -175.38461303710938,
+    "Satellite Timestamp (UTC)": "2022-07-02 02:54:30.218Z"
+  },
+  {
+    "Value (mG)": -296.923095703125,
+    "Satellite Timestamp (UTC)": "2022-07-02 02:59:30.475Z"
+  },
+  {
+    "Value (mG)": -273.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:04:30.750Z"
+  },
+  {
+    "Value (mG)": -252.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:09:31.033Z"
+  },
+  {
+    "Value (mG)": -218.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:14:31.328Z"
+  },
+  {
+    "Value (mG)": -176.92308044433594,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:19:31.630Z"
+  },
+  {
+    "Value (mG)": -291.5384521484375,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:24:31.923Z"
+  },
+  {
+    "Value (mG)": -449.23077392578125,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:29:32.171Z"
+  },
+  {
+    "Value (mG)": -232.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:34:32.452Z"
+  },
+  {
+    "Value (mG)": -152.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:39:32.833Z"
+  },
+  {
+    "Value (mG)": -196.1538543701172,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:44:33.008Z"
+  },
+  {
+    "Value (mG)": -230.7692413330078,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:49:33.289Z"
+  },
+  {
+    "Value (mG)": -271.5384521484375,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:54:33.615Z"
+  },
+  {
+    "Value (mG)": -275.3846130371094,
+    "Satellite Timestamp (UTC)": "2022-07-02 03:59:33.896Z"
+  },
+  {
+    "Value (mG)": -251.53846740722656,
+    "Satellite Timestamp (UTC)": "2022-07-02 04:04:34.166Z"
+  },
+  {
+    "Value (mG)": -220.7692413330078,
+    "Satellite Timestamp (UTC)": "2022-07-02 04:09:34.437Z"
+  },
+  {
+    "Value (mG)": -204.61538696289062,
+    "Satellite Timestamp (UTC)": "2022-07-02 04:14:34.718Z"
+  },
+  {
+    "Value (mG)": -97.69230651855469,
+    "Satellite Timestamp (UTC)": "2022-07-02 04:19:35.008Z"
+  },
+  {
+    "Value (mG)": -330.76922607421875,
+    "Satellite Timestamp (UTC)": "2022-07-02 04:24:35.280Z"
+  },
+  {
+    "Value (mG)": -232.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 04:34:35.875Z"
+  },
+  {
+    "Value (mG)": -146.92308044433594,
+    "Satellite Timestamp (UTC)": "2022-07-02 04:39:36.183Z"
+  },
+  {
+    "Value (mG)": -276.923095703125,
+    "Satellite Timestamp (UTC)": "2022-07-02 04:44:36.459Z"
+  },
+  {
+    "Value (mG)": -326.923095703125,
+    "Satellite Timestamp (UTC)": "2022-07-02 04:54:37.076Z"
+  },
+  {
+    "Value (mG)": -410,
+    "Satellite Timestamp (UTC)": "2022-07-02 04:59:37.325Z"
+  },
+  {
+    "Value (mG)": -401.5384826660156,
+    "Satellite Timestamp (UTC)": "2022-07-02 05:04:37.624Z"
+  },
+  {
+    "Value (mG)": -261.5384521484375,
+    "Satellite Timestamp (UTC)": "2022-07-02 05:09:37.943Z"
+  },
+  {
+    "Value (mG)": -153.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 05:14:38.216Z"
+  },
+  {
+    "Value (mG)": -170.7692413330078,
+    "Satellite Timestamp (UTC)": "2022-07-02 05:24:38.790Z"
+  },
+  {
+    "Value (mG)": -244.61538696289062,
+    "Satellite Timestamp (UTC)": "2022-07-02 05:29:39.073Z"
+  },
+  {
+    "Value (mG)": -369.23077392578125,
+    "Satellite Timestamp (UTC)": "2022-07-02 05:34:39.356Z"
+  },
+  {
+    "Value (mG)": -343.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 05:39:39.651Z"
+  },
+  {
+    "Value (mG)": -245.38461303710938,
+    "Satellite Timestamp (UTC)": "2022-07-02 05:44:39.944Z"
+  },
+  {
+    "Value (mG)": -320,
+    "Satellite Timestamp (UTC)": "2022-07-02 05:49:40.254Z"
+  },
+  {
+    "Value (mG)": -376.1538391113281,
+    "Satellite Timestamp (UTC)": "2022-07-02 05:54:40.539Z"
+  },
+  {
+    "Value (mG)": -257.69232177734375,
+    "Satellite Timestamp (UTC)": "2022-07-02 05:59:40.823Z"
+  },
+  {
+    "Value (mG)": -145.38461303710938,
+    "Satellite Timestamp (UTC)": "2022-07-02 06:04:41.150Z"
+  },
+  {
+    "Value (mG)": -306.1538391113281,
+    "Satellite Timestamp (UTC)": "2022-07-02 06:09:41.489Z"
+  },
+  {
+    "Value (mG)": -413.0769348144531,
+    "Satellite Timestamp (UTC)": "2022-07-02 06:14:41.656Z"
+  },
+  {
+    "Value (mG)": -356.1538391113281,
+    "Satellite Timestamp (UTC)": "2022-07-02 06:19:41.944Z"
+  },
+  {
+    "Value (mG)": -340.76922607421875,
+    "Satellite Timestamp (UTC)": "2022-07-02 06:24:42.209Z"
+  },
+  {
+    "Value (mG)": -313.0769348144531,
+    "Satellite Timestamp (UTC)": "2022-07-02 06:29:42.479Z"
+  },
+  {
+    "Value (mG)": -288.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 06:34:42.776Z"
+  },
+  {
+    "Value (mG)": -282.3077087402344,
+    "Satellite Timestamp (UTC)": "2022-07-02 06:39:43.038Z"
+  },
+  {
+    "Value (mG)": -284.6153869628906,
+    "Satellite Timestamp (UTC)": "2022-07-02 06:44:43.325Z"
+  },
+  {
+    "Value (mG)": -304.6153869628906,
+    "Satellite Timestamp (UTC)": "2022-07-02 06:49:43.602Z"
+  },
+  {
+    "Value (mG)": -346.1538391113281,
+    "Satellite Timestamp (UTC)": "2022-07-02 06:54:43.876Z"
+  },
+  {
+    "Value (mG)": -355.3846130371094,
+    "Satellite Timestamp (UTC)": "2022-07-02 07:04:44.441Z"
+  },
+  {
+    "Value (mG)": -346.1538391113281,
+    "Satellite Timestamp (UTC)": "2022-07-02 07:09:44.717Z"
+  },
+  {
+    "Value (mG)": -153.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 07:19:45.319Z"
+  },
+  {
+    "Value (mG)": -181.53846740722656,
+    "Satellite Timestamp (UTC)": "2022-07-02 07:24:45.615Z"
+  },
+  {
+    "Value (mG)": -242.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 07:29:45.933Z"
+  },
+  {
+    "Value (mG)": -361.5384826660156,
+    "Satellite Timestamp (UTC)": "2022-07-02 07:34:46.215Z"
+  },
+  {
+    "Value (mG)": -231.53846740722656,
+    "Satellite Timestamp (UTC)": "2022-07-02 07:39:46.500Z"
+  },
+  {
+    "Value (mG)": -208.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 07:44:46.799Z"
+  },
+  {
+    "Value (mG)": -299.23077392578125,
+    "Satellite Timestamp (UTC)": "2022-07-02 07:49:47.098Z"
+  },
+  {
+    "Value (mG)": -315.3846130371094,
+    "Satellite Timestamp (UTC)": "2022-07-02 07:54:47.388Z"
+  },
+  {
+    "Value (mG)": -289.23077392578125,
+    "Satellite Timestamp (UTC)": "2022-07-02 07:59:47.687Z"
+  },
+  {
+    "Value (mG)": -226.1538543701172,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:04:47.949Z"
+  },
+  {
+    "Value (mG)": -176.92308044433594,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:09:48.223Z"
+  },
+  {
+    "Value (mG)": -181.53846740722656,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:14:48.495Z"
+  },
+  {
+    "Value (mG)": -205.38461303710938,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:19:48.785Z"
+  },
+  {
+    "Value (mG)": -145.38461303710938,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:24:49.089Z"
+  },
+  {
+    "Value (mG)": -161.53846740722656,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:29:49.370Z"
+  },
+  {
+    "Value (mG)": -251.53846740722656,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:34:49.659Z"
+  },
+  {
+    "Value (mG)": -293.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:39:50.092Z"
+  },
+  {
+    "Value (mG)": -269.23077392578125,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:44:50.219Z"
+  },
+  {
+    "Value (mG)": -211.53846740722656,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:49:50.496Z"
+  },
+  {
+    "Value (mG)": -153.07691955566406,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:54:50.775Z"
+  },
+  {
+    "Value (mG)": -213.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 08:59:51.054Z"
+  },
+  {
+    "Value (mG)": -333.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 09:04:51.326Z"
+  },
+  {
+    "Value (mG)": -354.6153869628906,
+    "Satellite Timestamp (UTC)": "2022-07-02 09:09:51.627Z"
+  },
+  {
+    "Value (mG)": -128.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 09:14:51.917Z"
+  },
+  {
+    "Value (mG)": -233.07693481445312,
+    "Satellite Timestamp (UTC)": "2022-07-02 09:19:52.181Z"
+  },
+  {
+    "Value (mG)": -360.76922607421875,
+    "Satellite Timestamp (UTC)": "2022-07-02 09:24:52.463Z"
+  },
+  {
+    "Value (mG)": -349.23077392578125,
+    "Satellite Timestamp (UTC)": "2022-07-02 09:29:52.737Z"
+  },
+  {
+    "Value (mG)": -328.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 09:34:53.061Z"
+  },
+  {
+    "Value (mG)": -190,
+    "Satellite Timestamp (UTC)": "2022-07-02 09:44:53.615Z"
+  },
+  {
+    "Value (mG)": -182.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 09:49:53.914Z"
+  },
+  {
+    "Value (mG)": -228.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 09:54:54.226Z"
+  },
+  {
+    "Value (mG)": -256.1538391113281,
+    "Satellite Timestamp (UTC)": "2022-07-02 10:04:54.822Z"
+  },
+  {
+    "Value (mG)": -363.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 10:09:55.138Z"
+  },
+  {
+    "Value (mG)": -253.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 10:14:55.406Z"
+  },
+  {
+    "Value (mG)": -251.53846740722656,
+    "Satellite Timestamp (UTC)": "2022-07-02 10:19:55.706Z"
+  },
+  {
+    "Value (mG)": -215.38461303710938,
+    "Satellite Timestamp (UTC)": "2022-07-02 10:34:56.543Z"
+  },
+  {
+    "Value (mG)": -90,
+    "Satellite Timestamp (UTC)": "2022-07-02 10:39:56.819Z"
+  },
+  {
+    "Value (mG)": -353.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 10:44:57.130Z"
+  },
+  {
+    "Value (mG)": -319.23077392578125,
+    "Satellite Timestamp (UTC)": "2022-07-02 10:49:57.396Z"
+  },
+  {
+    "Value (mG)": -166.1538543701172,
+    "Satellite Timestamp (UTC)": "2022-07-02 10:54:57.676Z"
+  },
+  {
+    "Value (mG)": -221.53846740722656,
+    "Satellite Timestamp (UTC)": "2022-07-02 10:59:57.959Z"
+  },
+  {
+    "Value (mG)": -236.1538543701172,
+    "Satellite Timestamp (UTC)": "2022-07-02 11:04:58.274Z"
+  },
+  {
+    "Value (mG)": -185.38461303710938,
+    "Satellite Timestamp (UTC)": "2022-07-02 11:14:58.789Z"
+  },
+  {
+    "Value (mG)": -306.1538391113281,
+    "Satellite Timestamp (UTC)": "2022-07-02 11:29:59.673Z"
+  },
+  {
+    "Value (mG)": -170.7692413330078,
+    "Satellite Timestamp (UTC)": "2022-07-02 11:34:59.979Z"
+  },
+  {
+    "Value (mG)": -165.38461303710938,
+    "Satellite Timestamp (UTC)": "2022-07-02 11:40:00.239Z"
+  },
+  {
+    "Value (mG)": -387.69232177734375,
+    "Satellite Timestamp (UTC)": "2022-07-02 11:45:00.570Z"
+  },
+  {
+    "Value (mG)": -205.38461303710938,
+    "Satellite Timestamp (UTC)": "2022-07-02 11:50:00.825Z"
+  },
+  {
+    "Value (mG)": -137.6923065185547,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:00:01.405Z"
+  },
+  {
+    "Value (mG)": -209.23077392578125,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:05:01.719Z"
+  },
+  {
+    "Value (mG)": -233.07693481445312,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:10:02.002Z"
+  },
+  {
+    "Value (mG)": -389.23077392578125,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:15:02.292Z"
+  },
+  {
+    "Value (mG)": -238.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:20:02.575Z"
+  },
+  {
+    "Value (mG)": -173.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:25:02.870Z"
+  },
+  {
+    "Value (mG)": -363.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:30:03.157Z"
+  },
+  {
+    "Value (mG)": -356.1538391113281,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:35:03.480Z"
+  },
+  {
+    "Value (mG)": -353.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:40:03.777Z"
+  },
+  {
+    "Value (mG)": -340,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:45:04.090Z"
+  },
+  {
+    "Value (mG)": -308.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:50:04.383Z"
+  },
+  {
+    "Value (mG)": -212.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 12:55:04.656Z"
+  },
+  {
+    "Value (mG)": -202.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 13:00:04.940Z"
+  },
+  {
+    "Value (mG)": -253.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 13:05:05.249Z"
+  },
+  {
+    "Value (mG)": -182.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 13:10:05.512Z"
+  },
+  {
+    "Value (mG)": -308.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 13:15:05.807Z"
+  },
+  {
+    "Value (mG)": -183.07691955566406,
+    "Satellite Timestamp (UTC)": "2022-07-02 13:20:06.086Z"
+  },
+  {
+    "Value (mG)": -158.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 13:25:06.378Z"
+  },
+  {
+    "Value (mG)": -258.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 13:30:06.654Z"
+  },
+  {
+    "Value (mG)": -237.6923065185547,
+    "Satellite Timestamp (UTC)": "2022-07-02 13:35:06.939Z"
+  },
+  {
+    "Value (mG)": -250.7692413330078,
+    "Satellite Timestamp (UTC)": "2022-07-02 13:40:07.323Z"
+  },
+  {
+    "Value (mG)": -225.38461303710938,
+    "Satellite Timestamp (UTC)": "2022-07-02 13:50:07.733Z"
+  },
+  {
+    "Value (mG)": -279.23077392578125,
+    "Satellite Timestamp (UTC)": "2022-07-02 13:55:08.034Z"
+  },
+  {
+    "Value (mG)": -353.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:00:08.334Z"
+  },
+  {
+    "Value (mG)": -328.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:05:08.597Z"
+  },
+  {
+    "Value (mG)": -278.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:10:08.890Z"
+  },
+  {
+    "Value (mG)": -316.923095703125,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:15:09.148Z"
+  },
+  {
+    "Value (mG)": -352.3077087402344,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:20:09.421Z"
+  },
+  {
+    "Value (mG)": -253.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:25:09.707Z"
+  },
+  {
+    "Value (mG)": -253.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:30:09.978Z"
+  },
+  {
+    "Value (mG)": -303.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:35:10.260Z"
+  },
+  {
+    "Value (mG)": -306.1538391113281,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:40:10.520Z"
+  },
+  {
+    "Value (mG)": -254.61538696289062,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:45:10.811Z"
+  },
+  {
+    "Value (mG)": -230.7692413330078,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:50:11.084Z"
+  },
+  {
+    "Value (mG)": -217.6923065185547,
+    "Satellite Timestamp (UTC)": "2022-07-02 14:55:11.383Z"
+  },
+  {
+    "Value (mG)": -241.53846740722656,
+    "Satellite Timestamp (UTC)": "2022-07-02 15:00:11.633Z"
+  },
+  {
+    "Value (mG)": -264.6153869628906,
+    "Satellite Timestamp (UTC)": "2022-07-02 15:05:11.901Z"
+  },
+  {
+    "Value (mG)": -233.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 15:10:12.179Z"
+  },
+  {
+    "Value (mG)": -308.4615478515625,
+    "Satellite Timestamp (UTC)": "2022-07-02 15:15:12.453Z"
+  },
+  {
+    "Value (mG)": -329.23077392578125,
+    "Satellite Timestamp (UTC)": "2022-07-02 15:20:12.694Z"
+  },
+  {
+    "Value (mG)": -226.92308044433594,
+    "Satellite Timestamp (UTC)": "2022-07-02 15:25:13.020Z"
+  },
+  {
+    "Value (mG)": -214.61538696289062,
+    "Satellite Timestamp (UTC)": "2022-07-02 15:30:13.311Z"
+  },
+  {
+    "Value (mG)": -326.923095703125,
+    "Satellite Timestamp (UTC)": "2022-07-02 15:35:13.610Z"
+  },
+  {
+    "Value (mG)": -342.3077087402344,
+    "Satellite Timestamp (UTC)": "2022-07-02 15:40:13.878Z"
+  },
+  {
+    "Value (mG)": -302.3077087402344,
+    "Satellite Timestamp (UTC)": "2022-07-02 15:45:14.190Z"
+  },
+  {
+    "Value (mG)": -297.69232177734375,
+    "Satellite Timestamp (UTC)": "2022-07-02 15:50:14.483Z"
+  },
+  {
+    "Value (mG)": -263.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 16:00:15.037Z"
+  },
+  {
+    "Value (mG)": -252.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 16:10:15.751Z"
+  },
+  {
+    "Value (mG)": -283.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 16:15:15.925Z"
+  },
+  {
+    "Value (mG)": -163.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 16:25:16.527Z"
+  },
+  {
+    "Value (mG)": -233.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 16:30:16.798Z"
+  },
+  {
+    "Value (mG)": -362.3077087402344,
+    "Satellite Timestamp (UTC)": "2022-07-02 16:40:17.381Z"
+  },
+  {
+    "Value (mG)": -310,
+    "Satellite Timestamp (UTC)": "2022-07-02 16:45:17.685Z"
+  },
+  {
+    "Value (mG)": -293.8461608886719,
+    "Satellite Timestamp (UTC)": "2022-07-02 16:50:17.953Z"
+  },
+  {
+    "Value (mG)": -242.3076934814453,
+    "Satellite Timestamp (UTC)": "2022-07-02 16:55:18.220Z"
+  },
+  {
+    "Value (mG)": -310.76922607421875,
+    "Satellite Timestamp (UTC)": "2022-07-02 17:00:18.528Z"
+  },
+  {
+    "Value (mG)": -296.1538391113281,
+    "Satellite Timestamp (UTC)": "2022-07-02 17:05:18.811Z"
+  },
+  {
+    "Value (mG)": -223.84616088867188,
+    "Satellite Timestamp (UTC)": "2022-07-02 17:10:19.089Z"
+  },
+  {
+    "Value (mG)": -292.3077087402344,
+    "Satellite Timestamp (UTC)": "2022-07-02 17:15:19.413Z"
+  },
+  {
+    "Value (mG)": -362.3077087402344,
+    "Satellite Timestamp (UTC)": "2022-07-02 17:20:19.665Z"
+  },
+  {
+    "Value (mG)": -310.76922607421875,
+    "Satellite Timestamp (UTC)": "2022-07-02 17:30:20.257Z"
+  }
+]

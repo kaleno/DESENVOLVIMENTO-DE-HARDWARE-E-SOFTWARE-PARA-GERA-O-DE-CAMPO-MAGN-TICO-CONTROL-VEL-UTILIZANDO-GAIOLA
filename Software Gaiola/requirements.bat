@@ -1,0 +1,13 @@
+pip install pyserial
+pip install PyVISA
+pip install pygpib
+pip install PySimpleGUI
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install threaded
+pip install requests
+pip install skyfield
+pip install igrf
+pip install wmm2020
+pip install skyfield

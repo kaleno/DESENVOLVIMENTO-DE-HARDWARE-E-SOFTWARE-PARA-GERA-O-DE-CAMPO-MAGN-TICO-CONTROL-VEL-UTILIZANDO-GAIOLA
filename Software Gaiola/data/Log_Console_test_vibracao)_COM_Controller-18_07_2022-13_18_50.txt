@@ -1,0 +1,5 @@
+
+[18/07/2022-13:18:50][Teste]Portas Disponíveis:[]
+[18/07/2022-13:18:50][Teste]Portas de Console que responderam:[]
+[18/07/2022-13:18:52][Teste]Portas Disponíveis:[]
+[18/07/2022-13:18:52][Teste]Portas de Console que responderam:[]
