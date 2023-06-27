@@ -23,7 +23,7 @@ O repositório está organizado da seguinte forma:
 - `Software_Gaiola/`: Contém os arquivos relacionados ao software da gaiola de Helmholtz.
 - `Manual_Gaiola_de_Helmholtz_(1).pdf`: Documento PDF contendo o manual da gaiola de Helmholtz.
 - `README.md`: Este arquivo README com informações sobre o projeto.
-- `TCC_ThiagoHenriqueFerreiradaSilva_biblioteca.pdf`: Documento PDF contendo o TCC (Trabalho de Conclusão de Curso) intitulado "Biblioteca para Geração de Campo Magnético Controlável".
+- `TCC_ThiagoHenriqueFerreiradaSilva_biblioteca.pdf`: Documento PDF contendo o TCC (Trabalho de Conclusão de Curso) intitulado "DESENVOLVIMENTO DE HARDWARE E SOFTWARE PARA GERAÇÃO DE CAMPO MAGNÉTICO CONTROLÁVEL".
 
 Certifique-se de ajustar os nomes dos diretórios e arquivos de acordo com a estrutura do seu repositório.
 
